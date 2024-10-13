@@ -24,6 +24,7 @@
 - Feel free to reach out for discussions on technology, projects, or potential partnerships!
 
 ---
+
 ## Skills 
 
 <h2>Programming Languages:</h2>
@@ -71,7 +72,6 @@
     </a>
 </p>
 
-
 ---
 
 ## 🚀 Major Projects
@@ -82,27 +82,23 @@
 - **[Startup Growth Analysis](https://github.com/NirmalsaiswaroopJ/Startup-Growth-Analysis)**: 
   An analytical tool crafted to evaluate and visualize startup growth metrics. This project utilizes advanced data visualization techniques to present insights into key performance indicators (KPIs) crucial for understanding a startup's trajectory. By offering clear and actionable data, it assists entrepreneurs and investors in making informed decisions regarding investments and strategic planning. The tool encompasses various metrics, such as user acquisition rates, revenue growth, and market trends, providing a holistic view of the startup landscape.
 
-
 ---
 
 ## 📚 Articles
 
-
-<div align="left">
+<div align="center">
 
   <div style="display: inline-block; width: 45%; margin: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h4><a href="https://medium.com/@nirmalsai22/building-grihaseva-a-dynamic-home-services-web-app-with-real-time-features-77690937741f" target="_blank">Building GrihaSeva: A Dynamic Home Services Web App with Real-Time Features</a></h4>
-    <p>A comprehensive guide on developing GrihaSeva, focusing on its features and real-time functionalities.</p>
+    <p>Dive into the journey of developing <strong>GrihaSeva</strong>, an innovative home services platform designed to cater to real-time needs. This article explores the intricate features and functionalities that make GrihaSeva stand out in the crowded tech landscape, offering insights into user-centric design, technology stack, and the challenges faced along the way. Whether you're a budding developer or a tech enthusiast, this piece will inspire and inform!</p>
   </div>
-</div>
-<div align = "right">
+
   <div style="display: inline-block; width: 45%; margin: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h4><a href="https://medium.com/@nirmalsai22/billion-dollar-dreams-indias-startup-saga-1a1f53fea5dc" target="_blank">Billion Dollar Dreams: India’s Startup Saga</a></h4>
-    <p>An insightful exploration of the factors driving growth in India’s startup ecosystem.</p>
+    <p>Embark on an insightful exploration of India’s booming startup ecosystem in <strong>Billion Dollar Dreams</strong>. This article delves into the driving forces behind the incredible growth of startups in India, highlighting success stories, market trends, and the entrepreneurial spirit that fuels innovation. Perfect for anyone curious about the landscape of entrepreneurship, this piece provides a captivating overview of the dreams and aspirations shaping the future of India's economy.</p>
   </div>
 
 </div>
-
 
 ---
 
