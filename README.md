@@ -91,7 +91,7 @@
 
   <div style="display: inline-block; width: 45%; margin: 10px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <a href="https://medium.com/@nirmalsai22/building-grihaseva-a-dynamic-home-services-web-app-with-real-time-features-77690937741f" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:1024/1*XlDonKg4daSaMzhKGs34MA.jpeg" alt="GrihaSeva Article" style="width: 100%; border-radius: 10px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Medium_logo.svg" alt="GrihaSeva Article" style="width: 100%; border-radius: 10px;" />
       <h4>Building GrihaSeva: A Dynamic Home Services Web App with Real-Time Features</h4>
       <p>A comprehensive guide on developing GrihaSeva, focusing on its features and real-time functionalities.</p>
     </a>
@@ -99,7 +99,7 @@
 
   <div style="display: inline-block; width: 45%; margin: 10px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <a href="https://medium.com/@nirmalsai22/billion-dollar-dreams-indias-startup-saga-1a1f53fea5dc" target="_blank">
-      <img src="https://okcredit-blog-images-prod.storage.googleapis.com/2020/09/Emerging-startup-in-India-1.jpg" alt="Startup Saga Article" style="width: 100%; border-radius: 10px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Medium_logo.svg" alt="Startup Saga Article" style="width: 100%; border-radius: 10px;" />
       <h4>Billion Dollar Dreams: India’s Startup Saga</h4>
       <p>An insightful exploration of the factors driving growth in India’s startup ecosystem.</p>
     </a>
