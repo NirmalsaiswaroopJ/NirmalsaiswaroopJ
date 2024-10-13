@@ -24,11 +24,9 @@
 - Feel free to reach out for discussions on technology, projects, or potential partnerships!
 
 ---
-## Languages and Tools 
+## Skills 
 
-<h3 align="left">Skills</h3>
-
-<h4>Programming Languages:</h4>
+<h2>Programming Languages:</h2>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -41,7 +39,7 @@
     </a>
 </p>
 
-<h4>Front End Development:</h4>
+<h2>Front End Development:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -51,24 +49,18 @@
     </a>
 </p>
 
-<h4>Database:</h4>
+<h2>Database:</h2>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
 </p>
 
-<h4>Framework:</h4>
-<p align="left">
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-    </a>
-</p>
-
 <h4>AI/ML/Data Analysis:</h4>
 <p align="left">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/18/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40"/>
+        <img src="![image](https://github.com/user-attachments/assets/d3e0d1f9-9c0d-478b-9237-063e7bbbba73)
+" alt="Matplotlib" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
