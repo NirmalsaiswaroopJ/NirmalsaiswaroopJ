@@ -4,47 +4,16 @@
 
 ---
 
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  h1, p {
-    animation: fadeIn 1s ease-in-out;
-  }
-
-  h1 span {
-    transition: color 0.3s ease;
-  }
-
-  h1 span:hover {
-    color: #FF4500; /* Change to orange on hover */
-  }
-
-  p b {
-    transition: transform 0.3s ease;
-  }
-
-  p b:hover {
-    transform: scale(1.1); /* Slightly scale up on hover */
-  }
-</style>
-
 <div align="center">
-  <h1>Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!</h1>
-  <p>
-    <b>Data Enthusiast</b> | <b>Problem Solver</b> | <b>Continuous Learner</b>
-  </p>
-  <p>
-    Passionate about building intelligent systems and optimizing solutions through <b>data analytics</b> and <b>efficient algorithms</b>.
-  </p>
+    <h1 style="font-family: 'Roboto', sans-serif; font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+        Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!
+    </h1>
+    <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; margin: 5px 0;">
+        <b style="color: #007BFF;">Data Enthusiast</b> | <b style="color: #007BFF;">Problem Solver</b> | <b style="color: #007BFF;">Continuous Learner</b>
+    </p>
+    <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; margin: 5px 0;">
+        Passionate about building intelligent systems and optimizing solutions through <b style="color: #007BFF;">data analytics</b> and <b style="color: #007BFF;">efficient algorithms</b>.
+    </p>
 </div>
 
 
