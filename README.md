@@ -106,9 +106,12 @@
 
 As a passionate coder and problem solver, I actively participate in various competitive programming platforms. These platforms not only help me sharpen my skills in algorithms and data structures but also allow me to engage with a vibrant community of developers. Here are some of the platforms where you can find me tackling challenges and honing my coding abilities:
 
-- **HackerRank**: [![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/nirmal7463)  
-- **LeetCode**: [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/nirmal7463)  
-- **GeeksforGeeks**: [![GeeksforGeeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/nirmals0vs)  
+- **HackerRank**: <a href="https://www.hackerrank.com/nirmal7463" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="20" height="20" style="vertical-align: middle;"/></a>
+  
+- **LeetCode**: <a href="https://www.leetcode.com/nirmal7463" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="20" height="20" style="vertical-align: middle;"/></a>
+  
+- **GeeksforGeeks**: <a href="https://auth.geeksforgeeks.org/user/nirmals0vs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="20" height="20" style="vertical-align: middle;"/></a>
+  
 
 
 ---
