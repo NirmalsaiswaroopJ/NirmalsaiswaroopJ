@@ -74,7 +74,7 @@
 
 ---
 
-### 🚀 Major Projects
+## 🚀 Major Projects
 
 - **[GrihaSeva](https://github.com/NirmalsaiswaroopJ/GrihaSeva-RealTime-Project)**: 
    GrihaSeva is an innovative application that connects users with service providers for home maintenance and improvement tasks. Users can easily book appointments, manage service requests, and receive reminders for upcoming appointments. The platform offers a seamless experience for both users and providers, ensuring efficient service delivery and customer satisfaction. Through GrihaSeva, we aim to simplify the process of finding reliable service providers and enhance the overall user experience in managing home-related tasks.
@@ -85,8 +85,28 @@
 
 ---
 
-### 📚 Articles
-Check out my articles [here](#).
+## 📚 Articles
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="text-align: center; margin: 10px;">
+    <h4>GrihaSeva Project</h4>
+    <a href="https://medium.com/@nirmalsai22/grihaseva-project-article-link" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*fHMQhxP1KXxzI_cHoW3QuQ.png" alt="GrihaSeva" width="150" />
+    </a>
+    <p>Discover how GrihaSeva offers personalized fitness solutions.</p>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <h4>Startup Growth Analysis</h4>
+    <a href="https://medium.com/@nirmalsai22/startup-analysis-article-link" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*aDFV-6aW7UQk8gYPsn4hJg.png" alt="Startup Growth Analysis" width="150" />
+    </a>
+    <p>Insights into startup growth strategies and data analysis.</p>
+  </div>
+
+</div>
+
 
 ---
 
