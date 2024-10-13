@@ -87,25 +87,21 @@
 
 ## 📚 Articles
 
-<div style="display: flex; justify-content: space-around;">
 
-  <div style="text-align: center; margin: 10px;">
-    <h4>GrihaSeva Project</h4>
-    <a href="https://medium.com/@nirmalsai22/grihaseva-project-article-link" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*fHMQhxP1KXxzI_cHoW3QuQ.png" alt="GrihaSeva" width="150" />
-    </a>
-    <p>Discover how GrihaSeva offers personalized fitness solutions.</p>
+<div align="center">
+
+  <div style="display: inline-block; width: 45%; margin: 5px; vertical-align: top;">
+    <h4><a href="https://medium.com/@nirmalsai22/building-grihaseva-a-dynamic-home-services-web-app-with-real-time-features-77690937741f" target="_blank">Building GrihaSeva: A Dynamic Home Services Web App with Real-Time Features</a></h4>
+    <p>A comprehensive guide on developing GrihaSeva, focusing on its features and real-time functionalities.</p>
   </div>
 
-  <div style="text-align: center; margin: 10px;">
-    <h4>Startup Growth Analysis</h4>
-    <a href="https://medium.com/@nirmalsai22/startup-analysis-article-link" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*aDFV-6aW7UQk8gYPsn4hJg.png" alt="Startup Growth Analysis" width="150" />
-    </a>
-    <p>Insights into startup growth strategies and data analysis.</p>
+  <div style="display: inline-block; width: 45%; margin: 5px; vertical-align: top;">
+    <h4><a href="https://medium.com/@nirmalsai22/billion-dollar-dreams-indias-startup-saga-1a1f53fea5dc" target="_blank">Billion Dollar Dreams: India’s Startup Saga</a></h4>
+    <p>An insightful exploration of the factors driving growth in India’s startup ecosystem.</p>
   </div>
 
 </div>
+
 
 
 ---
