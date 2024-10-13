@@ -132,7 +132,7 @@ As a passionate coder and problem solver, I actively participate in various comp
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NirmalsaiswaroopJ&theme=react) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalsaiswaroopJ&theme=react)
 <br>
-![Snake animation](https://raw.githubusercontent.com/NirmalsaiswaroopJ/NirmalsaiswaroopJ/output/snake.svg)
+<img src="https://raw.githubusercontent.com/NirmalsaiswaroopJ/NirmalsaiswaroopJ/output/snake.svg" alt="Snake animation" width="800"/>
 </div>
 
 ---
