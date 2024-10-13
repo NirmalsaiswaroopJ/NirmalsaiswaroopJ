@@ -23,7 +23,7 @@
         </a>
         
         <a href="mailto:your_email@example.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" height="30" width="40" />
+            <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png](https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000)" alt="Gmail" height="30" width="40" />
         </a>
     </div>
 </div>
