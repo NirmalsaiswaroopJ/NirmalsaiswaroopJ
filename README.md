@@ -47,6 +47,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
 </p>
 
 <h2>Database:</h2>
@@ -59,8 +61,7 @@
 <h4>AI/ML/Data Analysis:</h4>
 <p align="left">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="![image](https://github.com/user-attachments/assets/d3e0d1f9-9c0d-478b-9237-063e7bbbba73)
-" alt="Matplotlib" width="40" height="40"/>
+        <img src="https://www.google.com/search?sca_esv=dfe00e6ef900fa4e&rlz=1C1RXQR_enIN1117IN1117&sxsrf=ADLYWIKL5WqAOGjRzMwuxktyHVQamQ8RSQ:1728801156794&q=matplotlib+icon+png&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0agyhkonr4yOSeK8BsD5XfYUiU3OFC_gaKy-o3lyB6g8nKKmLJkAS6PJVO0lC5dGCU7v9a5qPtxJHzUb8Pv36lHfhi32lIAmWQRY-7emfKvRRuy6_yzSO674N75hTRSbhqdtxg&udm=2&sa=X&ved=2ahUKEwjn69mW3oqJAxWtzzgGHdcpFTkQxKsJegQICBAB&ictx=0&biw=1422&bih=739&dpr=1.35#vhid=yPOCDGWWNskYoM&vssid=mosaic" alt="Matplotlib" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
