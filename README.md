@@ -5,17 +5,41 @@
 ---
 
 <div align="center">
-    <h1 style="font-family: 'Roboto', sans-serif; font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-        Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!
-    </h1>
-    <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; margin: 5px 0;">
-        <b style="color: #007BFF;">Data Enthusiast</b> | <b style="color: #007BFF;">Problem Solver</b> | <b style="color: #007BFF;">Continuous Learner</b>
-    </p>
-    <p style="font-family: 'Roboto', sans-serif; font-size: 1.2em; margin: 5px 0;">
-        Passionate about building intelligent systems and optimizing solutions through <b style="color: #007BFF;">data analytics</b> and <b style="color: #007BFF;">efficient algorithms</b>.
-    </p>
+  <h1>Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!</h1>
+  <p>
+    <b>Data Enthusiast</b> | <b>Problem Solver</b> | <b>Continuous Learner</b>
+  </p>
+  <p>
+    Passionate about building intelligent systems and optimizing solutions through <b>data analytics</b> and <b>efficient algorithms</b>.
+  </p>
 </div>
 
+---
+
+<div style="text-align: center; margin: 20px 0;">
+    <h2 style="color: #333;">👀 Visitor Count</h2>
+    <div style="display: inline-block; padding: 10px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+        <img src="https://komarev.com/ghpvc/?username=NirmalsaiswaroopJ&color=brightgreen" alt="Profile Views" style="width: 100px; height: auto;" />
+    </div>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+    <h2 style="color: #333;">📫 Connect with Me</h2>
+    
+    <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <a href="mailto:your_email@example.com" style="text-decoration: none; color: #d52b1e; font-weight: bold; display: flex; align-items: center;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" style="width: 30px; height: auto; margin-right: 10px;" />
+            your_email@example.com
+        </a>
+    </div>
+    
+    <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none; color: #0077b5; font-weight: bold; display: flex; align-items: center;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 30px; height: auto; margin-right: 10px;" />
+            Your LinkedIn Profile
+        </a>
+    </div>
+</div>
 
 ## 🚀 About Me
 
