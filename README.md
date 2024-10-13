@@ -4,6 +4,16 @@
 
 ---
 
+<div align="center">
+  <h1>Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!</h1>
+  <p>
+    <b>Data Enthusiast</b> | <b>Problem Solver</b> | <b>Continuous Learner</b>
+  </p>
+  <p>
+    Passionate about building intelligent systems and optimizing solutions through <b>data analytics</b> and <b>efficient algorithms</b>.
+  </p>
+</div>
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **path visualizing algorithms**.
