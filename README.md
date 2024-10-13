@@ -126,10 +126,11 @@ As a passionate coder and problem solver, I actively participate in various comp
 ## 📊 GitHub Stats
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirmalsaiswaroopJ&show_icons=true&locale=en&layout=compact" alt="nirmalsaiswaroopj" /></p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NirmalsaiswaroopJ&theme=react) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirmalsaiswaroopJ&theme=react) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NirmalsaiswaroopJ&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NirmalsaiswaroopJ&theme=react) <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirmalsaiswaroopJ&show_icons=true&locale=en&layout=compact" alt="nirmalsaiswaroopj" /></p> <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalsaiswaroopJ&theme=react)
 
 </div>
