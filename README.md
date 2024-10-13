@@ -123,7 +123,6 @@ As a passionate coder and problem solver, I actively participate in various comp
 
 ---
 ### 📊 GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NirmalsaiswaroopJ" alt="NirmalsaiswaroopJ" /></a></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalsaiswaroopJ&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirmalsaiswaroopJ&theme=monokai) 
