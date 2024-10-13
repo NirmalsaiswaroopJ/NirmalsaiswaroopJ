@@ -16,24 +16,24 @@
 
 ---
 
-
 <div style="text-align: center; margin: 20px 0;">
-    <h2 style="color: #333;">📫 Connect with Me</h2>
-    
-    <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-        <a href="mailto:your_email@example.com" style="text-decoration: none; color: #d52b1e; font-weight: bold; display: flex; align-items: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" style="width: 30px; height: auto; margin-right: 10px;"></img>
-            your_email@example.com
-        </a>
-    </div>
-    
-    <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-        <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none; color: #0077b5; font-weight: bold; display: flex; align-items: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 30px; height: auto; margin-right: 10px;" />
-            Your LinkedIn Profile
-        </a>
+    <div style="display: flex; justify-content: center; gap: 20px;">
+        <div style="padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+            <a href="mailto:your_email@example.com" style="text-decoration: none; color: #d52b1e; font-weight: bold; display: flex; align-items: center;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" style="width: 30px; height: auto; margin-right: 10px;" />
+                your_email@example.com
+            </a>
+        </div>
+        
+        <div style="padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+            <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none; color: #0077b5; font-weight: bold; display: flex; align-items: center;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 30px; height: auto; margin-right: 10px;" />
+                Your LinkedIn Profile
+            </a>
+        </div>
     </div>
 </div>
+---
 
 ## 🚀 About Me
 
