@@ -16,8 +16,8 @@
 
 ---
 
-<div style="text-align: center; margin: 20px 0;">
-    <h3>Connect with Me:</h3>
+<div align="center">
+    
     
     <div style="margin: 10px 0;">
         <a href="https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/" target="_blank">
@@ -28,22 +28,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" height="30" width="40" style="margin-left: 20px;" />
         </a>
     </div>
-    
-    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-        <a href="https://medium.com/@nirmalsai22" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-        </a>
-        <a href="https://www.hackerrank.com/nirmal7463" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-        </a>
-        <a href="https://www.leetcode.com/nirmal7463" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-        </a>
-        <a href="https://auth.geeksforgeeks.org/user/nirmals0vs" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" />
-        </a>
-    </div>
 </div>
+
 
 ---
 
