@@ -16,30 +16,12 @@
 
 ---
 
-<div align="center">
-    <div>
-        <a href="https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        
-        <a href="mailto:nirmalsai22@gmail.com" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
-        </a>
-    </div>
-</div>
-
-
-
----
-
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **path visualizing algorithms**.
-- 🌱 Currently enhancing my skills in **Dynamic Programming**.
-- 👯 I'm looking to collaborate on **data structures**, **algorithms**, and **machine learning** projects.
-- 💬 Ask me about **web development, algorithms, and project management**.
-- 📫 How to reach me: Email me at **your_email@example.com**.
-- ⚡ Favorite Quote: **"Your quote here!"**
+- Passionate about leveraging data to solve complex problems and develop efficient algorithms.
+- Currently honing my skills in various programming languages and technologies.
+- Open to collaboration on projects involving software development and data analysis.
+- Feel free to reach out for discussions on technology, projects, or potential partnerships!
 
 ---
 
