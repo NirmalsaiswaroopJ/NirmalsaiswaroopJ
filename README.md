@@ -58,7 +58,7 @@
     </a>
 </p>
 
-<h4>AI/ML/Data Analysis:</h4>
+<h2>AI/ML/Data Analysis:</h2>
 <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -75,8 +75,13 @@
 ---
 
 ### 🚀 Major Projects
-- **FlexForge**: A dynamic gym portal for real-time fitness solutions.
-- **Path Visualizer**: Visualizes pathfinding algorithms for educational purposes.
+
+- **[GrihaSeva](https://github.com/NirmalsaiswaroopJ/GrihaSeva-RealTime-Project)**: 
+   GrihaSeva is an innovative application that connects users with service providers for home maintenance and improvement tasks. Users can easily book appointments, manage service requests, and receive reminders for upcoming appointments. The platform offers a seamless experience for both users and providers, ensuring efficient service delivery and customer satisfaction. Through GrihaSeva, we aim to simplify the process of finding reliable service providers and enhance the overall user experience in managing home-related tasks.
+
+- **[Startup Growth Analysis](https://github.com/NirmalsaiswaroopJ/Startup-Growth-Analysis)**: 
+  An analytical tool crafted to evaluate and visualize startup growth metrics. This project utilizes advanced data visualization techniques to present insights into key performance indicators (KPIs) crucial for understanding a startup's trajectory. By offering clear and actionable data, it assists entrepreneurs and investors in making informed decisions regarding investments and strategic planning. The tool encompasses various metrics, such as user acquisition rates, revenue growth, and market trends, providing a holistic view of the startup landscape.
+
 
 ---
 
