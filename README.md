@@ -127,7 +127,13 @@ As a passionate coder and problem solver, I actively participate in various comp
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NirmalsaiswaroopJ&theme=react) <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NirmalsaiswaroopJ&theme=react)
+
+<div style="border-radius: 50%; overflow: hidden; width: 60px; height: 60px; display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=NirmalsaiswaroopJ&&style=flat-square" alt="Profile Views" style="width: 100%; height: auto;" />
+</div>
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirmalsaiswaroopJ&theme=react) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NirmalsaiswaroopJ&theme=react) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalsaiswaroopJ&theme=react)
