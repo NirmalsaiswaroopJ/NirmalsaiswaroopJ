@@ -17,18 +17,17 @@
 ---
 
 <div align="center">
-    
-    
-    <div style="margin: 10px 0;">
+    <div>
         <a href="https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
         
         <a href="mailto:your_email@example.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" height="30" width="40" style="margin-left: 20px;" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" height="30" width="40" />
         </a>
     </div>
 </div>
+
 
 
 ---
