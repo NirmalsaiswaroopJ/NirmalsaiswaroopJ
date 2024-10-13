@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+Github+profile." />
 </h1>
 
 <div align="center">
@@ -146,6 +146,10 @@ Feel free to reach out!
 
 - **Gmail**: [nirmalsai22@gmail.com](mailto:nirmalsai22@gmail.com)
 - **LinkedIn**: [Nirmal Sai Swaroop Janapaneedi](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+😊;I+Appreciate+Your+Visit!;" />
+</h1>
 
 <!---
 NirmalsaiswaroopJ/NirmalsaiswaroopJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
