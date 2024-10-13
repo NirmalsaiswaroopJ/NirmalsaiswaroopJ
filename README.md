@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **path visualizing algorithms** and **FlexForge**.
+- 🔭 I'm currently working on **path visualizing algorithms**.
 - 🌱 Currently enhancing my skills in **Dynamic Programming**.
 - 👯 I'm looking to collaborate on **data structures**, **algorithms**, and **machine learning** projects.
 - 💬 Ask me about **web development, algorithms, and project management**.
