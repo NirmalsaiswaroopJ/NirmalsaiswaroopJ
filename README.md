@@ -27,7 +27,7 @@
 
 ## Skills 
 
-<h2>Programming Languages:</h2>
+<h4>Programming Languages:</h4>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -40,7 +40,7 @@
     </a>
 </p>
 
-<h2>Front End Development:</h2>
+<h4>Front End Development:</h4>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -52,14 +52,14 @@
     </a>
 </p>
 
-<h2>Database:</h2>
+<h4>Database:</h4>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
 </p>
 
-<h2>AI/ML/Data Analysis:</h2>
+<h4>AI/ML/Data Analysis:</h4>
 <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
