@@ -134,11 +134,13 @@ As a passionate coder and problem solver, I actively participate in various comp
 
 </div>
 
-
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 Feel free to reach out!
+
+- **Gmail**: [nirmalsai22@gmail.com](mailto:nirmalsai22@gmail.com)
+- **LinkedIn**: [Nirmal Sai Swaroop Janapaneedi](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
 
 <!---
 NirmalsaiswaroopJ/NirmalsaiswaroopJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
