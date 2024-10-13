@@ -16,19 +16,13 @@
 
 ---
 
-<div style="text-align: center; margin: 20px 0;">
-    <h2 style="color: #333;">👀 Visitor Count</h2>
-    <div style="display: inline-block; padding: 10px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=NirmalsaiswaroopJ&color=brightgreen" alt="Profile Views" style="width: 100px; height: auto;" />
-    </div>
-</div>
 
 <div style="text-align: center; margin: 20px 0;">
     <h2 style="color: #333;">📫 Connect with Me</h2>
     
     <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
         <a href="mailto:your_email@example.com" style="text-decoration: none; color: #d52b1e; font-weight: bold; display: flex; align-items: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" style="width: 30px; height: auto; margin-right: 10px;" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon_%282016-2020%29.png" alt="Gmail" style="width: 30px; height: auto; margin-right: 10px;"></img>
             your_email@example.com
         </a>
     </div>
