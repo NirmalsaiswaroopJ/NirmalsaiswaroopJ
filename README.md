@@ -4,6 +4,39 @@
 
 ---
 
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  h1, p {
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  h1 span {
+    transition: color 0.3s ease;
+  }
+
+  h1 span:hover {
+    color: #FF4500; /* Change to orange on hover */
+  }
+
+  p b {
+    transition: transform 0.3s ease;
+  }
+
+  p b:hover {
+    transform: scale(1.1); /* Slightly scale up on hover */
+  }
+</style>
+
 <div align="center">
   <h1>Hi, I'm <span style="color: #00BFFF;">Nirmal</span>!</h1>
   <p>
@@ -13,6 +46,7 @@
     Passionate about building intelligent systems and optimizing solutions through <b>data analytics</b> and <b>efficient algorithms</b>.
   </p>
 </div>
+
 
 ## 🚀 About Me
 
