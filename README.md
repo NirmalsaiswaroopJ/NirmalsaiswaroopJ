@@ -87,8 +87,7 @@
   An analytical tool crafted to evaluate and visualize startup growth metrics. This project utilizes advanced data visualization techniques to present insights into key performance indicators (KPIs) crucial for understanding a startup's trajectory. By offering clear and actionable data, it assists entrepreneurs and investors in making informed decisions regarding investments and strategic planning. The tool encompasses various metrics, such as user acquisition rates, revenue growth, and market trends, providing a holistic view of the startup landscape.
 
 - **[RoomBuddy](https://github.com/NirmalsaiswaroopJ/RoomBuddy-JFS-Real-Time-Project)**: 
-  RoomBuddy is a dynamic web platform designed to help individuals find compatible roommates based on location, budget, and preferences. Whether you're a student, working professional, or someone looking for shared accommodation, RoomBuddy simplifies the process by providing a seamless and user-friendly experience.
-  Finding a roommate shouldn’t be stressful! RoomBuddy streamlines the process with an easy-to-use interface and smart features, ensuring you find the perfect match for shared living.
+  RoomBuddy is a dynamic web platform designed to help individuals find compatible roommates based on location, budget, and lifestyle preferences. The platform features secure user verification, and detailed profile creation to ensure safe and compatible matches. Whether you're a student, professional, or anyone seeking shared accommodation, RoomBuddy streamlines the roommate-finding process with an intuitive interface and comprehensive search filters. Join the growing community of satisfied users who have found their perfect roommate match through RoomBuddy – where compatible living spaces meet compatible lifestyles.
 ---
 
 ## 📚 Articles
