@@ -88,6 +88,9 @@
 
 - **[RoomBuddy](https://github.com/NirmalsaiswaroopJ/RoomBuddy-JFS-Real-Time-Project)**: 
   RoomBuddy is a dynamic web platform designed to help individuals find compatible roommates based on location, budget, and lifestyle preferences. The platform features secure user verification, and detailed profile creation to ensure safe and compatible matches. Whether you're a student, professional, or anyone seeking shared accommodation, RoomBuddy streamlines the roommate-finding process with an intuitive interface and comprehensive search filters. Join the growing community of satisfied users who have found their perfect roommate match through RoomBuddy – where compatible living spaces meet compatible lifestyles.
+
+- **[REG NMS-based Crypto Matching Engine](https://github.com/NirmalsaiswaroopJ/Cryptocurrency-Matching-Engine))**: 
+  A enterprise-grade matching engine implementing REG NMS-inspired principles for cryptocurrency trading. Built with Python, this system delivers sub~100ms latency while aiming to process 1000+ orders per second with strict price-time priority matching.
 ---
 
 ## 📚 Articles
